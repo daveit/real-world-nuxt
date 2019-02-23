@@ -1,6 +1,6 @@
 # real-world-nuxt
 
-> My bee&#39;s knees Nuxt.js project
+> Dave's Nuxt.js project
 
 ## Build Setup
 
